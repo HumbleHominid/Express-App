@@ -1,0 +1,10 @@
+{
+    "name": "Express_App",
+    "author": "Michael Fryer",
+    "description": "Test Express Applictaion",
+    "version": "0.0.0",
+    "license": "MIT",
+    "devDependencies": {
+        "express": "^4.16.2"
+    }
+}
