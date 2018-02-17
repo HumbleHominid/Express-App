@@ -4,7 +4,10 @@
     "description": "Test Express Applictaion",
     "version": "0.0.0",
     "license": "MIT",
-    "devDependencies": {
+    "dependencies": {
         "express": "^4.16.2"
+    },
+    "devDependencies": {
+        "reload": "^2.2.2"
     }
 }
